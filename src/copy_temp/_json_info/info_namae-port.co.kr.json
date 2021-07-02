@@ -1,0 +1,40 @@
+[
+    {
+        "siteName": "남애항",
+        "siteNameEN": "NAMAE-PORT",
+        "localName": "양양",
+        "domain": "namae-port.co.kr",
+        "baseCssPath": "http://design.ebiznetworks.co.kr/sun/tourist/static",
+        "imgPath": "http://design.ebiznetworks.co.kr/sun/tourist/img/namae-port.co.kr",
+        "subMent01": "바다의 정취를 고스란히 담고 있는",
+        "mainMent01": "배들이 늘어선 정겨운 포구<br> 남애항으로 초대합니다.",
+        "subMent02": "푸르른 남애항의 전경과 바다의 청량함",
+        "mainMent02": "바다를 향해 길게 뻗은 방파제와 조망<br> 감탄사가 절로 나오는 남애항입니다.",
+        "josaRo": "으로",
+        "josaLeul": "를",
+        "aboutMent": "양양의 대표 남애항! ",
+        "aboutTextArr": [
+            "강원도 3대 미항 가운데 하나로, 양양군의 1종 어항입니다.<br> 양양군에서 가장 큰 항구이며, 항구를 중심으로 남애1~4리 4개의 포구 마을이 길게 늘어서 있습니다.<br> 동해시의 추암 일출과 함께 동해안 일출의 최고 명소로 꼽히며, 특히 그림 같은 해변과 아담한 항구를 붉게 물들이며 타오르는 해돋이가 장관입니다.",
+
+            "항구 주변 곳곳에 크고 작은 바위섬들이 늘어서 있고, 그 사이에 방파제로 연결된 두 개의 섬이 돋보입니다.<br> 이 두 개의 섬에는 각각 빨간색과 하얀색의 등대가 서 있어 마치 쌍둥이 형제가 서로 마주보고 있는 듯하고,<br> 섬마다 각기 한 그루의 커다란 해송이 가지를 펴고 나무 그림자를 드리워 운치를 더합니다.",
+
+            "양양군의 남쪽 끝머리에 항아리처럼 움푹 팬 모습으로 자리잡고 앉아 전체적으로 아담하면서도 고즈넉한 분위기를 자아냅니다.<br> 영화 《고래사냥》의 마지막 장면이 촬영된 장소로도 유명하며, 바로 인근에 남애해수욕장, 남애1·3리해수욕장, 광진해수욕장이 있고,<br> 북쪽으로 자동차를 타고 15분 정도 달리면 주문진이 나옵니다. 주요 해산물로는 전복·미역·가리비·멸치·넙치 등이 있습니다."
+        ],
+        "wayCome": {
+            "ment": "많은 이들이 찾는 양양의 명소 남애항 위치안내",
+            "address": "강원 양양군 현남면 매바위길 138 (남애항)",
+            "naverMap": "http://naver.me/GvFNoMI9",
+            "kakaoMap": "http://kko.to/mscGoIzYM",
+            "transport": [
+                {
+                    "title": "양양시외버스터미널",
+                    "step": "양양시외종합터미널에서 양양시외버스터미널까지<br> 도보로 이동후 농어촌 지경리 버스 이용",
+                    "step2": "남애초교 정류장 하차 후 도보 이동<br>남애항까지 약 727미터"
+                }
+            ]
+        },
+        "mapBasePath": "../copy_temp/namae-port.co.kr/views/",
+        "mapBasePathM": "../copy_temp/namae-port.co.kr/views_m/",
+        "jsonInfoPath": "../_json_info/"
+    }
+]

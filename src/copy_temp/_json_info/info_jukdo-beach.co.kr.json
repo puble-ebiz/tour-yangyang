@@ -1,0 +1,43 @@
+[{
+    "siteName": "죽도해수욕장",
+    "siteNameEN": "jukdo-beach",
+    "domain": "jukdo-beach.co.kr",
+    "baseCssPath": "jukdo-beach",
+    "imgPath":"http://design.ebiznetworks.co.kr/lhc/tourist-yangyang/img/jukdo-beach.co.kr",
+    
+    "ment01_top":"동해의 아름다운 풍경을 지닌",
+    "ment01_josa":"으로",
+    "ment01_main":"초대합니다.",
+    "ment01_sub":"아름다운 동해해변으로 빼놓을수 없는<br>감탄의 명사 죽도해수욕장으로 초대합니다.",
+
+    "ment02_top":"아름다운 바다색과 함께",
+    "ment02_josa":"의",
+    "ment02_main":"풍경을 만나다",
+    "ment02_sub":"바다와 숲이 어우러진 죽도해수욕장<br>사계절 푸른 동해의 모습을 지닌 죽도해수욕장입니다.",
+    
+    "josaRo":"으로",
+    "josaLeul":"을",
+    "aboutTopMent":"깨끗한고 넓은 백사장이 있는 곳",
+    "aboutMent":"바다와 숲의 절묘한 만남이 있는 곳",
+    "aboutTextArr":[ 
+        "원도 양양군 현남면 인구리에 있는 해수욕장으로, 앞바다에 대나무가 많아 죽도라고 하는 섬이 있어 붙여진 이름입니다.",
+
+        "백사장 길이가 2km 정도로, 간이 해수욕장으로는 큰 규모입니다. 해변에 울창한 소나무숲이 있으며, 수심이 낮고 경사가 완만하여 가족 단위 피서지로 각광받고 있습니다.<br>주변에 크고 작은 바위가 많아 바다낚시를 하기에도 적합합니다.",
+    
+        "죽도와 도보로 연결되어 있으니 죽도봉에 올라 동해의 전경을 관람하고 해수욕장에서 서핑을 즐겨볼 것을 추천합니다. 해변 인근에는 여러 곳의 서핑스쿨이 있고, 장비 대여는 물론 강습도 가능합니다."
+    ],
+    "wayCome":{
+        "ment":"많은 이들이 찾는 양양의 명소 죽도해수욕장 위치안내",
+        "address":"강원 양양군 현남면 인구리",
+        "addInfo":"(죽도해수욕장)",
+        "naverMap":"http://naver.me/xitkPIDW",
+        "kakaoMap":"http://kko.to/BZpFsQtY0",
+        "transport":[
+            {
+                "title":"양양시외버스터미널",
+                "step":
+                "양양시외버스터미널에서 농어촌 지경리 버스 승차<br>죽도해수욕장 정류장 하차<br>해변까지 도보이동(약 250미터)"
+            }
+        ]
+    }
+}]
