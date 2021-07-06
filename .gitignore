@@ -74,7 +74,7 @@ dist/
 server/
 
 # 카피사이트
-copy_dist/
+
 copy_css/
 _info_복사견본
 _site_복사견본
